@@ -5,6 +5,6 @@
           <title> My First Website </title>
      </head>  
      <body>
-        <img scr="mytest_image.jpg">
+        <img scr="mytest_image.jpg" alt="Puddle">
      </body>
 </html> 
