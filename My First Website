@@ -5,6 +5,6 @@
           <title> My First Website </title>
      </head>  
      <body>
-        <img scr="test_image.jpg">
+        <img scr="index.html./test_image.jpg">
      </body>
 </html> 
