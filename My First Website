@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
      <head>
-          <title> My First Website </title>
+      <"utf-8">       
+      <title> My First Website </title>
      </head>  
      <body>
         <img scr="mytest_image.jpg" alt="Puddle">
