@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html>
      <head>
-          <title>
-              My First Website 
           </title>
             <meta charset="utf-8">
      </head>
      <body>
-          <img scr="test_image.jpg" 
-     </body>
+          <img alt="test_image.png"      
+    </body>
 </html>
