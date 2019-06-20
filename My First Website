@@ -5,6 +5,6 @@
       <title> My First Website </title>
      </head>  
      <body>
-        <img src="mytest_image.jpg" alt="Puddle"/>
-     </body>
+       <href="images/mytest_image.jpg">   
+       </body>
 </html> 
